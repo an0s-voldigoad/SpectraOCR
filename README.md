@@ -123,11 +123,10 @@ Reports contain source, language, confidence, OCR text, and detected indicators.
 ## 1. Clone
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/SpectraOCR.git
+git clone https://github.com/an0s-voldigoad/SpectraOCR.git
 cd SpectraOCR
 ```
 
-Replace `YOUR-USERNAME` with your GitHub username.
 
 ## 2. Install system requirements
 
