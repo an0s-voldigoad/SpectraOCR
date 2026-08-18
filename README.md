@@ -186,12 +186,14 @@ python3 spectraocr.py --version
 # ▶️ Running SpectraOCR
 
 ```bash
+chmod +x spectraocr.py
 python3 spectraocr.py
 ```
 
 Or:
 
 ```bash
+chmod +x spectraocr.py
 ./spectraocr.py
 ```
 
